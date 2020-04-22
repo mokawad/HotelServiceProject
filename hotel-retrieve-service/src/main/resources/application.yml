@@ -1,0 +1,9 @@
+
+server:
+  port: 9097
+
+spring:
+  application:
+    name: hotel-retrieve-service
+  profiles:
+    active: local
